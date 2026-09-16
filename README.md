@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：界面文档
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 078 篇 - 百家乐Ai预测分析工具：导出文档时保留足够的时间与版本信息](https://github.com/TGmszrcsz/baccarat-ai-078) ｜ [下一篇：第 080 篇 - 百家乐Ai预测分析工具：从文档导航检查整篇内容是否容易复查](https://github.com/TGmszrcsz/baccarat-ai-080)
+
+<!-- article-chain:end -->
+
 新闻内容紧挨分析结果，容易被误认为模型证据。本篇围绕“热点快讯与工具说明需要清楚分区”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、为什么值得单独检查
